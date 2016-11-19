@@ -6,4 +6,4 @@
 
 ##### let和const命令
 - [let命令](?file=002-let和const命令/01-let命令 "let命令")
-- [conset命令](?file=002-let和const命令/02-conset命令 "conset命令")
+- [const命令](?file=002-let和const命令/02-const命令 "const命令")
