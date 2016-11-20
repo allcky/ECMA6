@@ -7,4 +7,4 @@
 ##### let和const命令
 - [let命令](?file=002-let和const命令/01-let命令 "let命令")
 - [const命令](?file=002-let和const命令/02-const命令 "const命令")
-- [顶层对象的属性](?file=002-let和const命令/03-顶层对象的属性 "顶层对象的属性")
+- [变量与顶层对象的属性](?file=002-let和const命令/03-变量与顶层对象的属性 "变量与顶层对象的属性")
