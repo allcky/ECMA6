@@ -1,2 +1,2 @@
 # ECMA6
-http://houningzhou.cc/ECMA6
+http://hnz.wiki/ECMA6
